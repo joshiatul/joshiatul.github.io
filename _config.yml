@@ -53,6 +53,7 @@ defaults:
 # Site settings
 title: My blog
 description: "Blog about things I want to write about.."
+url: "http://joshiatul.github.io" # the base hostname & protocol for your site
 author:
   name: "Atul Joshi"
   email: "joshiatul99@gmail.com"
