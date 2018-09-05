@@ -1,3 +1,5 @@
+# These are site variables which will be accessible elsewhere with site.<variable_name>
+
 # Where things are
 source:      .
 destination: ./_site
